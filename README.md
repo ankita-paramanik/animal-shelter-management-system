@@ -20,4 +20,4 @@ The application provides a graphical user interface for managing the activities 
 
 ## Documentation
 The complete project documentation, including source code explanation and screenshots of outputs, is available in:
-Animal_Shelter_Management_Project_Report.docx
+https://github.com/ankita-paramanik/animal-shelter-management-system/blob/main/Animal_Shelter_Management_Project_Report.docx
